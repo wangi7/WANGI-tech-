@@ -1,0 +1,6 @@
+{
+  "name": "WANGI Tech",
+  "description": "Universal Business Management Platform for Wi-Fi hotspot networks, gaming station, technicians, billing, and financial operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
